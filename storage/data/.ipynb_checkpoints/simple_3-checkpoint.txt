@@ -1,3 +1,0 @@
-a 1 first
-b 2 second
-с 3 third
